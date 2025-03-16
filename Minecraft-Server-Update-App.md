@@ -3,7 +3,7 @@
 Application to update a local Minecraft server to the latest server version
 
 ## Repository
-![Minecraft-Server-Update-App](https://github.com/RatheeshRaghavendra/Minecraft-Server-Update-App)
+[Minecraft-Server-Update-App](https://github.com/RatheeshRaghavendra/Minecraft-Server-Update-App)
 
 ## Description
 
