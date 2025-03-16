@@ -14,3 +14,18 @@ An integration service, developed using Spring Boot, that allows users to effort
 - [turf-booking-booking-sapi](https://github.com/RatheeshRaghavendra/turf-booking-booking-sapi)
 - [turf-booking-turf-sapi](https://github.com/RatheeshRaghavendra/turf-booking-turf-sapi)
 - [turf-booking-user-sapi](https://github.com/RatheeshRaghavendra/turf-booking-user-sapi)
+
+## Microservices Concepts Implemented
+
+### Spring Web
+  OpenFeign Framework is used to make REST calls among the different APIs
+### Distributed Tracing
+  Zipkin and Micrometer is used to trace logs across the APIs
+### Logging
+  Log4J2 is used for logging
+### Gateway
+  Spring Cloud Gateway is used to route the incoming requests to the respective APIs
+### Service Discovery
+  Netflix Eureka Server is used to register and discover services 
+### Aspect-Oriented Programming
+  AOP is implemented to write cross cutting loggers
